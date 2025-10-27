@@ -3,6 +3,6 @@
 
 Grupo: 
 Cristobal Vidal -
-Rodolfo Aguilar
+Rodolfo Aguilar -
 Sebastian Riveros -
 Damaris Ahumada
