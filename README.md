@@ -2,7 +2,7 @@
 
 
 Grupo: 
-Cristobal Vidal
+Cristobal Vidal -
 Rodolfo Aguilar
-Sebastian Riveros
+Sebastian Riveros -
 Damaris Ahumada
