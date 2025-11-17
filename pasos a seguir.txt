@@ -1,7 +1,7 @@
 1.  make clear
 2.  make
 3.  echo "TACTAAGAAGC" > adn.txt
-4.  ./bio_search
+4.  ./bio
 5.  bio start 2
 6.  bio read adn.txt
 7.  bio search AA
