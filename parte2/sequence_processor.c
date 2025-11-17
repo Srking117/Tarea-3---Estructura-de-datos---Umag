@@ -7,7 +7,7 @@ void agregar_posicion_a_lista(ListaInt* lista_cabeza, int posicion_a_guardar)
 {
     NodoLista* nuevo_eslabon = (NodoLista*)gestionar_malloc(sizeof(NodoLista));
     // Rellenamos el eslabon.
-    nuevo_eslabon->posición = posicion_a_guardar; 
+    nuevo_eslabon->posicion = posicion_a_guardar; 
     // Añadimos el eslabón al inicioo de la lista
     nuevo_eslabon->siguiente = *lista_cabeza; 
     *lista_cabeza = nuevo_eslabon;
@@ -46,4 +46,5 @@ void procesar_y_cargar_trie(NodoTrie* raiz, const char* secuencia_S, int tamano_
         printf("DEBUG: Gen en pos %d guardado en la hoja.\n", i); 
     } 
     printf("Carga de genes completada.\n");
+
 }
