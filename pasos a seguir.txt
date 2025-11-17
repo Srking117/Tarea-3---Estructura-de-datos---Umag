@@ -1,4 +1,4 @@
-1.  make limpiar
+1.  make clear
 2.  make
 3.  echo "TACTAAGAAGC" > adn.txt
 4.  ./bio_search
